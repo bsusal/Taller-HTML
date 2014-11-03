@@ -8,7 +8,7 @@ body {
 	margin: 0;
 	padding: 0;
 background-color: blue;
-background-image: url(Imágenes/r_cesped.jpg);
+background-image: url(Imagenes/r_cesped.jpg);
 }
 
 #arriba{
@@ -18,7 +18,7 @@ background-image: url(Imágenes/r_cesped.jpg);
 	background-color: rgba(250,0,0,0.5);
 }
 #blanco {
-	background-image: url(Imágenes/horizontal.png);
+	background-image: url(Imagenes/horizontal.png);
 	background-position: center;
 	background-repeat: repeat-y;
 }
